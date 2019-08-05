@@ -1,0 +1,4 @@
+The gcc compiler is required to run the programs
+
+
+To run programms use the command  "gcc name.c -o yourtest"
